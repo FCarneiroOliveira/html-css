@@ -45,6 +45,9 @@ section{
     font-family: var(--f3);
     font-size: 2.5vw;
 }
+section > p{
+    margin-bottom:12px;
+}
 section.normal{
     background-color: white;
 }
