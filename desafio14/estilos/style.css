@@ -41,9 +41,11 @@ main{
     box-sizing: border-box;
 }
 #rs{
+    position: relative;
     display: flex;
     flex-direction: column;
     align-items: end;
+    z-index: 1;
 }
 #rs img:hover{
     border: 2px solid rgba(255, 255, 255, 0.621);
