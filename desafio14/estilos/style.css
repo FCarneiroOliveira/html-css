@@ -41,10 +41,9 @@ main{
     box-sizing: border-box;
 }
 #rs{
+    position: relative;
     margin-left: auto;
     width: min-content;
-    display: flex;
-    align-items:start ;
     flex-direction: column;
     z-index: 1;
 }
