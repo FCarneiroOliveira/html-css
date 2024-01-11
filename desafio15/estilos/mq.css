@@ -24,7 +24,8 @@
     div#form > h1{
         font-size: 1.8em;
     }
-    div.campo > input{
+    div.campo > input {
+        display: block;
         background-color: #69e1dd;
         font-size: 1em;
         height: 100%;
@@ -32,7 +33,7 @@
         border: 0px;
         border-radius: 0px 8px 8px 0px;
         padding: 4px;
-        transform: translateY(-42px) translateX(44px) ;
+        transform: none;  
     }
 }
 @media screen and (min-width:992px){
