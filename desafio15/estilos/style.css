@@ -73,7 +73,7 @@ div.campo > input{
     border: 0px;
     border-radius: 0px 8px 8px 0px;
     padding: 4px;
-    transform: translateY(-42px) translateX(44px) ;
+    transform: none;
 }
 div.campo > input:focus-within{
     background-color: white;
